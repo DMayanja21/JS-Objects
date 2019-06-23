@@ -1,5 +1,5 @@
 //Alternative
-function Contact(first_name,second_name,phone_number,email,address_array[]){
+function Contact(first_name,second_name,phone_number,email,address_array){
 	this.first_name=first_name;
 	this.second_name=second_name;
 	this.phone_number=phone_number;
